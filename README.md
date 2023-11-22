@@ -1,4 +1,4 @@
-# Rolling-Dice
+# Rolling Dice
 
 Main function is in `RollDice.java` (*to run the whole program run this file*)
 
